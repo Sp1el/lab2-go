@@ -17,6 +17,7 @@
 
 ## 🏗️ Структура проекта
 lab2-go/
+
 ├── main.go
 
 ├── tasks.go
@@ -34,5 +35,6 @@ lab2-go/
 ```bash
 git clone https://github.com/Sp1el/lab1-go.git
 cd lab2-go
+
 
 
