@@ -32,8 +32,9 @@ lab2-go/
 
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/Sp1el/lab1-go.git
+git clone https://github.com/Sp1el/lab2-go.git
 cd lab2-go
+
 
 
 
